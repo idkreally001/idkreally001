@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @idkreally001
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me idk really
+### Hi, I'm Islam 👋
 
-<!---
-idkreally001/idkreally001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend-focused full-stack engineer building secure, transaction-driven web applications and ERP systems.
+
+- 🔭 Currently developing and customizing **Odoo 18** ERP modules at Arter
+- 🛠️ Stack: Python, Node.js/Express, React, PostgreSQL, Odoo ORM, JWT, Socket.io, Linux, Nginx
+- 🎓 B.Sc. Computer Engineering @ OSTİM Technical University
+- 📌 Featured: [OMNIRENT](https://github.com/idkreally001/omnirent-core) — full-stack rental marketplace with escrow-style transactions and row-level locking
+- 📫 Reach me: islampszdh@gmail.com | [LinkedIn](https://www.linkedin.com/in/islampszdh/)
